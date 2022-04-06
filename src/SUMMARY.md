@@ -5,6 +5,6 @@
 - [Game Content](GameContent/Content.md)
 - [Game content](GameContent/Content.md)
 
-Examples mdbook-admonish
+# Examples mdbook-admonish
 - [Overview](./overview.md)
 - [Reference](./reference.md)
