@@ -1,5 +1,5 @@
 # Gameplay
 
-- [Core Loop](Gameplay/CoreLoop.md)
-- [Design Pilars](Gameplay/DesignPilars.md)
-- [UI](Gameplay/UI.md)
+- [Core Loop](CoreLoop/CoreLoop.md)
+- [Design Pilars](DesignPilars/DesignPilars.md)
+- [UI](UI/UI.md)

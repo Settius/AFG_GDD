@@ -1,5 +1,4 @@
-# Gameplay
+# Game Entities
 
-- [Core Loop](Gameplay/CoreLoop.md)
-- [Design Pilars](Gameplay/DesignPilars.md)
-- [UI](Gameplay/UI.md)
+- [Characters](Characters/Characters.md)
+- [Equipment](Equipment/Equipment.md)

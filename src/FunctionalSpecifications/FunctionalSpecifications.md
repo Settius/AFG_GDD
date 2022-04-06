@@ -1,5 +1,4 @@
-# Gameplay
+# Functional Specifications
 
-- [Core Loop](Gameplay/CoreLoop.md)
-- [Design Pilars](Gameplay/DesignPilars.md)
-- [UI](Gameplay/UI.md)
+- [Combat Mechanics](CombatMechanics/CombatMechanics.md)
+- [Units](Units/Units.md)
