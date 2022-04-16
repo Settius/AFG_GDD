@@ -1,9 +1,9 @@
 # AFG GDD
 
-- [Gameplay](Gameplay/Gameplay.md)
-  - [Core Loop](Gameplay/CoreLoop/CoreLoop.md)
-  - [Design Pilars](Gameplay/DesignPillars/DesignPillars.md)
-  - [UI](Gameplay/UI/UI.md)
+- [HighLevelConcept](HighLevelConcept/HighLevelConcept.md)
+  - [Universe](HighLevelConcept/Universe/Universe.md)
+  - [Design Pilars](HighLevelConcept/DesignPillars/DesignPillars.md)
+  - [UI](HighLevelConcept/UI/UI.md)
 - [Functional Specifications](FunctionalSpecifications/FunctionalSpecifications.md)
   - [Combat Mechanics](FunctionalSpecifications/CombatMechanics/CombatMechanics.md)
   - [Units](FunctionalSpecifications/Units/Units.md)
