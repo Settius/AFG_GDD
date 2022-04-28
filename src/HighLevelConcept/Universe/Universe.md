@@ -1,8 +1,8 @@
 # Universe
 
-- [Fiction and Cities](HighLevelConcept/Universe/FictionandCities/FictionandCities.md)
-- [World](HighLevelConcept/Universe/World/World.md)
-- [World Quests and Faction Quests](HighLevelConcept/Universe/WorldQuestsandFactionQuests/WorldQuestsandFactionQuests.md)
-- [Questlines](HighLevelConcept/Universe/Questlines/Questlines.md)
-- [Conflict](HighLevelConcept/Universe/Conflict/Conflict.md)
-- [Characters](HighLevelConcept/Universe/Characters/Characters.md)
+- [Fiction and Cities](FictionandCities/FictionandCities.md)
+- [World](World/World.md)
+- [World Quests and Faction Quests](WorldQuestsandFactionQuests/WorldQuestsandFactionQuests.md)
+- [Questlines](Questlines/Questlines.md)
+- [Conflict](Conflict/Conflict.md)
+- [Characters](Characters/Characters.md)
